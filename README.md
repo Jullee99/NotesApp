@@ -3,7 +3,6 @@
 
 * Login / Logout (with UserDefaults)
 * Add new notes
-* Modify existing note
 * Delete notes
 
 ## Elements :-
